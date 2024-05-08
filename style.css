@@ -1,0 +1,28 @@
+.first-heading{
+    color: red;
+}
+body{
+    background-color: aliceblue;
+}
+ol{ 
+    background-color: aqua;
+    width: 30%;
+    color: red;
+}
+ul{
+    background-color: white;
+    width: 30%;
+    color: blue;
+}
+h2{
+    color: yellowgreen;
+}
+#l{
+    color:red;
+}
+h3{
+    color: blue;
+}
+img{
+    width: 30rem;
+}
